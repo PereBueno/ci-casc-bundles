@@ -1,6 +1,6 @@
 ---
 jenkins:
-  systemMessage: "Hello CasC"
+  systemMessage: "Configured with CasC"
   authorizationStrategy: "cloudBeesRoleBasedAccessControl"
 unclassified:
   headerLabel:

@@ -1,0 +1,9 @@
+---
+apiVersion: "1"
+id: "MyJobs"
+description: "My jobs bundle"
+version: "1"
+availabilityPattern: ".*"
+parent: "plugins"
+items:
+  - "items.yaml"

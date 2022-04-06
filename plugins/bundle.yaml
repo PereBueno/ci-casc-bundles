@@ -1,0 +1,9 @@
+---
+apiVersion: "1"
+id: "plugins"
+description: "Basic plugin bundle"
+version: "1"
+availabilityPattern: ".*"
+parent: "base"
+plugins:
+  - "plugins.yaml"
