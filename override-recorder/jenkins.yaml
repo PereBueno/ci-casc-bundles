@@ -1,0 +1,8 @@
+---
+jenkins:
+  log:
+    recorders:
+    - loggers:
+      - level: "INFO"
+        name: "jenkins.security.SecurityListener"
+      name: "user-login"

@@ -1,0 +1,9 @@
+---
+apiVersion: "1"
+id: "override-recorder"
+description: "try and override log recorder"
+version: "1"
+availabilityPattern: ".*"
+parent: "user-login-recorder"
+jcasc:
+  - "jenkins.yaml"
