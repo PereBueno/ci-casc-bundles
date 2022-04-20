@@ -1,4 +1,3 @@
----
 apiVersion: "1"
 id: "user-login-recorder"
 description: "CasC log recorder for user logins"

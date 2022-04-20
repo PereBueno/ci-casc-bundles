@@ -1,4 +1,3 @@
----
 apiVersion: "1"
 id: "basic-controller"
 description: "Basic controller bundle"
