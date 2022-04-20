@@ -1,0 +1,13 @@
+---
+jenkins:
+  systemMessage: "Configured with CasC"
+  authorizationStrategy: "cloudBeesRoleBasedAccessControl"
+  log:
+    recorders:
+    - loggers:
+      - level: "FINE"
+        name: "jenkins.security.SecurityListener"
+      name: "user-login"
+unclassified:
+  headerLabel:
+    text: "CASC LOG RECORDER"
