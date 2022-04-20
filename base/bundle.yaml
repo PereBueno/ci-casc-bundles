@@ -1,4 +1,3 @@
----
 apiVersion: "1"
 id: "base"
 description: "Bontroller base bundle"
