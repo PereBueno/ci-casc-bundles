@@ -1,0 +1,12 @@
+removeStrategy:
+  rbac: SYNC
+  items: NONE
+items:
+- kind: backupAndRestore
+  name: backup
+  blockBuildWhenDownstreamBuilding: false
+  blockBuildWhenUpstreamBuilding: false
+  concurrentBuild: false
+  description: ''
+  disabled: false
+  displayName: backup
