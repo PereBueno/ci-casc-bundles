@@ -6,3 +6,4 @@ availabilityPattern: ".*"
 parent: "base"
 plugins:
   - "plugins.yaml"
+  - "plugin-catalog.yaml"
