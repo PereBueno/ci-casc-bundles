@@ -1,6 +1,6 @@
 apiVersion: "1"
 id: "base"
-description: "Bontroller base bundle"
+description: "Controller base bundle"
 version: "1"
 availabilityPattern: ".*"
 jcasc:
