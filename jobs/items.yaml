@@ -28,5 +28,5 @@ items:
         }
   description: 'Simple CasC pipeline'
   disabled: false
-  displayName: hello
+  displayName: hello2
   resumeBlocked: false
